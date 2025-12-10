@@ -86,19 +86,16 @@ source install/setup.bash
 ```
 swift-autonomous-drone-snapshot/
 ├── src/
-│   ├── swift_pico/          # Lightweight PID controller (illustrative)
-│   ├── whycon/              # Optimized WhyCon detection (illustrative)
-│   └── pid_tune/            # Real-time PID tuning GUI (illustrative)
-├── demo/
-│   └── hero.gif             # Demo visualization
-├── docs/
-│   └── architecture_diagram.png
+│   ├── swift_pico/src/          # Lightweight PID controller (illustrative)
+│   ├── whycon/src/              # Optimized WhyCon detection (illustrative)
+│   └── pid_tune/scripts/        # Real-time PID tuning GUI (illustrative)
 ├── scripts/
-│   └── start_sim_demo.sh    # Demo launch script
-├── case_study.md            # Project case study
-├── PROJECT.json             # Project metadata
-├── LICENSE                  # MIT License
-└── README.md               # This file
+│   └── start_sim_demo.sh        # Demo launch script
+├── case_study.md                # Project case study
+├── PROJECT.json                 # Project metadata
+├── LICENSE                      # MIT License
+├── README.md                    # This file
+└── .gitignore                   # Excludes build files, CAD, logs
 ```
 
 ## 🔧 Key Components
