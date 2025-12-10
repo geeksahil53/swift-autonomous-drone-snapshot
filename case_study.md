@@ -11,6 +11,17 @@ status: published
 
 ![Swift Drone Hovering](../09_MEDIA/hero.png)
 
+## Tags
+
+![ROS 2](https://img.shields.io/badge/ROS%202-Humble-blue?logo=ros)
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![C++](https://img.shields.io/badge/C%2B%2B-17-blue?logo=c%2B%2B)
+![Gazebo](https://img.shields.io/badge/Gazebo-Ignition-orange?logo=gazebo)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+**Technologies:** `ROS 2` `PID Control` `Computer Vision` `WhyCon` `Gazebo` `Python` `C++` `Embedded Systems` `Robotics`
+
 ## Project Snapshot
 
 Built an autonomous stabilization system for a custom Pico drone using PID control and WhyCon marker tracking. The system achieves stable hover at setpoint [2, 2, 19] within 8.5 seconds, maintaining ±0.5 units accuracy even under disturbances. This demonstrates that classic control theory, when properly tuned, can deliver precise autonomous flight without requiring neural networks or expensive hardware.
