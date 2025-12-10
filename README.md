@@ -23,17 +23,8 @@ This project demonstrates that classic control theory, when properly tuned, can 
 
 ## 🏗️ System Architecture
 
-```
-┌─────────────┐     ┌──────────────┐     ┌─────────────┐
-│   WhyCon    │────▶│   PID        │────▶│   Gazebo    │
-│   Marker    │     │   Controller │     │   Simulator │
-│   Detection │     │              │     │             │
-└─────────────┘     └──────────────┘     └─────────────┘
-       ▲                    │                    │
-       │                    │                    │
-       └────────────────────┴────────────────────┘
-                    Position Feedback Loop
-```
+<img width="1067" height="446" alt="Schematic diagram PID" src="https://github.com/user-attachments/assets/14716e8d-b83f-4be8-8c29-9dba09652d83" />
+
 
 ## 🚀 Quick Start
 
@@ -146,16 +137,6 @@ butter_cutoff = 0.5  # Normalized frequency
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
-
-- Mohammed Sahil Nakhuda
-- Sivayazi Kappagantula
-- Ramya S Moorthy
-- Satya Veerendra Arigela
-
-## 🙏 Acknowledgments
-
-Developed as part of research at Manipal Institute of Technology, Manipal Academy of Higher Education.
 
 ## 📧 Contact
 

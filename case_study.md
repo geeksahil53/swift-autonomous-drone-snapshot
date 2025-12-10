@@ -1,15 +1,15 @@
 ---
-title: Swift Autonomous Drone – PID Stabilization & Vision Tracking
+Title: Swift Autonomous Drone – PID Stabilization & Vision Tracking
 
-date: 2025-12-10
+Date: 2025-12-10
 
-tags: [drone, robotics, PID, ROS, computer-vision, embedded]
+Tags: [drone, robotics, PID, ROS, computer-vision, embedded]
 
-status: published
+Status: published
 
 ---
+![drone_cad_design_isoview_main](https://github.com/user-attachments/assets/d9540d3e-0477-4b3f-b593-7c15705edf59)
 
-![Swift Drone Hovering](../09_MEDIA/hero.png)
 
 ## Tags
 
@@ -59,7 +59,7 @@ Filtering sensor data is non-negotiable—vision-based position estimates are in
 
 ## Links
 
-- Full Technical Walkthrough → blog_post.md
-- GitHub → 
-- Demo Video → 
+- Full Technical Walkthrough → blog_post.md 
+- Demo Photo → <img width="880" height="734" alt="drone_gazebo_stabilized_axis" src="https://github.com/user-attachments/assets/60367637-e844-4f03-a119-a2c4455a2bac" />
+
 
