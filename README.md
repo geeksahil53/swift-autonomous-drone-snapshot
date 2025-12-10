@@ -35,7 +35,7 @@ The lightweight framework distributes computational load efficiently:
 
 ```
 ┌─────────────────┐     ┌──────────────────┐     ┌─────────────┐
-│   WhyCon        │────▶│   Lightweight    │────▶│   Gazebo    │
+│   WhyCon        │───▶│   Lightweight    │────▶│   Gazebo    │
 │   (Optimized    │     │   PID Controller │     │   Simulator │
 │   Vision)       │     │   (100 Hz)       │     │             │
 └─────────────────┘     └──────────────────┘     └─────────────┘
@@ -175,16 +175,6 @@ butter_cutoff = 0.5  # Normalized frequency
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
-
-- Mohammed Sahil Nakhuda
-- Sivayazi Kappagantula
-- Ramya S Moorthy
-- Satya Veerendra Arigela
-
-## 🙏 Acknowledgments
-
-Developed as part of research at Manipal Institute of Technology, Manipal Academy of Higher Education.
 
 ## 📧 Contact
 
