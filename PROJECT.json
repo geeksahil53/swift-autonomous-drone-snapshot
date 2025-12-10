@@ -12,7 +12,7 @@
   "difficulty": "advanced",
   "year": 2025,
   "hero_media": "images/gazebo_drone_hovering.jpeg",
-  "github": "",
+  "github": "https://github.com/geeksahil53/swift-autonomous-drone-snapshot",
   "blog": "08_DOCUMENTATION/blog_post.md"
 }
 
