@@ -3,7 +3,6 @@ Title: Swift Autonomous Drone – PID Stabilization & Vision Tracking
 
 Date: 2025-12-10
 
-Tags: [drone, robotics, PID, ROS, computer-vision, embedded]
 
 Status: published
 
