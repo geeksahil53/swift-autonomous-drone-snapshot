@@ -94,3 +94,11 @@ site/
 *.a
 *.lib
 
+# Setup/Helper Files (not part of project)
+*_GUIDE.md
+*_GITHUB.md
+*_GIT*.md
+QUICK_START.md
+REPOSITORY_*.md
+use_git.ps1
+
