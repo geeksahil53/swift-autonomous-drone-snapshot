@@ -4,8 +4,6 @@ Title: Swift Autonomous Drone – PID Stabilization & Vision Tracking
 Date: 2025-12-10
 
 
-Status: published
-
 ---
 ![drone_cad_design_isoview_main](https://github.com/user-attachments/assets/d9540d3e-0477-4b3f-b593-7c15705edf59)
 
