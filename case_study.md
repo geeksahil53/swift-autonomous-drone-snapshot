@@ -52,6 +52,6 @@ The biggest challenge in embedded drone control isn't the control algorithm—it
 
 - **Full Technical Walkthrough** → [blog_post.md](blog_post.md)
 - **GitHub Repository** → [swift-autonomous-drone-snapshot](https://github.com/geeksahil53/swift-autonomous-drone-snapshot)
-- **Demo Visualization** → 
+- **Demo photo ** → 
 
 ![Stabilized Drone in Gazebo](https://github.com/user-attachments/assets/60367637-e844-4f03-a119-a2c4455a2bac)
