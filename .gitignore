@@ -1,0 +1,96 @@
+# ROS 2 Build Files
+build/
+install/
+log/
+.ros/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Large Files (>10MB)
+*.zip
+*.tar.gz
+*.db3
+*.bag
+*.mp4
+*.avi
+*.mov
+
+# CAD Files
+*.STEP
+*.step
+*.SLDPRT
+*.sldprt
+*.stl
+*.STL
+*.dae
+
+# PCB Files
+*.brd
+*.sch
+*.kicad_pcb
+*.kicad_sch
+
+# Logs and Data
+*.log
+*.csv
+*.txt
+!README.md
+!LICENSE
+
+# Binary Files
+*.bin
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Sensitive Data
+*.key
+*.pem
+*.p12
+*.env
+*.secret
+config.yaml
+secrets.yaml
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# OS Files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Documentation Build
+docs/_build/
+site/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Compiled Files
+*.o
+*.a
+*.lib
+

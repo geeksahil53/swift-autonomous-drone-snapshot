@@ -1,0 +1,18 @@
+{
+  "title": "Swift Autonomous Drone",
+  "slug": "swift-autonomous-drone",
+  "domain": ["robotics", "embedded", "control", "computer-vision"],
+  "status": "completed",
+  "featured": true,
+  "tech_stack": ["ROS 2", "Gazebo Ignition", "Python", "C++", "SolidWorks", "URDF", "WhyCon", "PlotJuggler", "PID Control"],
+  "hardware": ["Custom Pico Drone (Simulated)", "WhyCon Markers", "Overhead Camera (Simulated)"],
+  "has_cad": true,
+  "has_wiring": false,
+  "has_code": true,
+  "difficulty": "advanced",
+  "year": 2025,
+  "hero_media": "images/gazebo_drone_hovering.jpeg",
+  "github": "",
+  "blog": "08_DOCUMENTATION/blog_post.md"
+}
+
