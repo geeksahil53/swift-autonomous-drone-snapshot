@@ -120,11 +120,6 @@ swift-autonomous-drone-snapshot/
 - **Features**: Real-time slider-based tuning, eliminates wasteful simulation restarts
 - **Benefit**: Reduces computational waste from iterative tuning cycles
 
-## 📚 Documentation
-
-- **[Case Study](case_study.md)** - Project overview emphasizing lightweight framework design
-- **[Full Technical Walkthrough](https://YOUR_PORTFOLIO_URL/blog/swift-autonomous-drone)** - Detailed engineering journey, computational challenges, and optimization strategies
-
 ## 🎓 What Makes This Special
 
 - **Lightweight framework architecture** solves the computational challenge that prevents real-time stabilization on embedded systems
